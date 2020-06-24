@@ -2,8 +2,6 @@
     "name": "littlefox/elastica-tools",
     "type": "library",
     "require": {
-//        "friendsofsymfony/elastica-bundle": "^5.1",
-//        "ruflin/elastica": "^5.3.5"
     },
     "authors": [
         {
